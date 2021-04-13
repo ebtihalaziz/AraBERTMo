@@ -1,2 +1,2 @@
-# Aurora
+# ArBERTMo
 language model
